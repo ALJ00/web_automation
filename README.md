@@ -1,1 +1,2 @@
-# web_automation
+# Web Automation example with Cypress
+
